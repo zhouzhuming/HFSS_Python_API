@@ -1,2 +1,4 @@
 # HFSS_Python_API
-python for hfss
+I will start to build a python package for hfss control
+Start from post processing
+
